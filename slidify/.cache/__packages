@@ -1,0 +1,10 @@
+base
+devtools
+shinyapps
+randomForest
+lattice
+ggplot2
+caret
+shiny
+knitr
+slidify
